@@ -1,0 +1,19 @@
+h1 {
+  color: white;
+  text-align: center;
+  margin: 0;
+}
+
+.todo-container{
+  max-width: 400px;
+  margin: 80px auto 0 auto;
+}
+
+.heading {
+  /* background-color: #318CE7; */
+  background-color: #012169;
+  padding: 3px;
+  margin: 0 0 10px 0;
+  width: 100%;
+  border-radius: 15px;
+}

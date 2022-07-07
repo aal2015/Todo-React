@@ -1,0 +1,29 @@
+.note-container {
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 10px;
+    height: 40px;
+    width: 100%;
+    padding-top: 10px;
+}
+
+.note-container p {
+    font-size: 19px;
+    font-weight: bold;
+    color: #1da1f2;
+    margin: 0;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+.note-container button {
+    float: right;
+    font-size: 19px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-right: 10px;
+    margin-top: 5px;
+    border: None;
+    background-color: white;
+    color: #0039a6;
+}

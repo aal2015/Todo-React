@@ -1,0 +1,27 @@
+input {
+    border: none;
+    color: #224C98;
+    height: 40px;
+    width: 305px;
+    font-size: 20px;
+    background-color: #73C2FB;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 320px 80px;
+}
+
+.grid-container button {
+    background-color: #1560bd;
+    border: None;
+    border-radius: 10px;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+.grid-container button:hover {
+    background-color: #034694;
+}
